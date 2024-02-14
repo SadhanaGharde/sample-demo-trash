@@ -60,4 +60,9 @@ class MainActivity : AppCompatActivity() {
     fun add() :Int{
         return 1
     }
+
+    //added function 2
+    fun sub() :Int{
+        return 2
+    }
 }
