@@ -55,4 +55,9 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration)
                 || super.onSupportNavigateUp()
     }
+
+    // added function 1
+    fun add() :Int{
+        return 1
+    }
 }
