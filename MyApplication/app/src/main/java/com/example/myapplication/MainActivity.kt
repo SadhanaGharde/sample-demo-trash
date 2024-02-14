@@ -74,6 +74,10 @@ class MainActivity : AppCompatActivity() {
     fun div() :Int{
         return 4
     }
+    // added var  5
+    var sadhana = ""
 
+    // added var  6
+    var sadhanaGharde = ""
 
 }
