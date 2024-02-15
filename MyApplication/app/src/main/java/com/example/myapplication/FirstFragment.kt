@@ -41,4 +41,6 @@ class FirstFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
+    // switched to release
+
 }
