@@ -42,4 +42,8 @@ class FirstFragment : Fragment() {
         _binding = null
     }
     // first fragment activity
+    // first method aded
+    fun add() :Int{
+        return 1
+    }
 }
