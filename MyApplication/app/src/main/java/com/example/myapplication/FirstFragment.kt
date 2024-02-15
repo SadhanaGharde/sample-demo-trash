@@ -43,4 +43,9 @@ class FirstFragment : Fragment() {
     }
     // switched to release
 
+    //added 1 methode in release branch
+    fun del() : Int{
+        return 1
+    }
+
 }
