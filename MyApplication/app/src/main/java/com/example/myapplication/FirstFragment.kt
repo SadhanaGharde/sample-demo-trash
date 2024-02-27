@@ -41,4 +41,10 @@ class FirstFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
+    // first fragment activity
+    // first method aded
+    fun add() :Int{
+        return 1
+    }
+    // changes added to remote branch
 }
