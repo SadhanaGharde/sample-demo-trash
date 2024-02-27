@@ -41,4 +41,11 @@ class SecondFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
+
+    fun add(){
+        // first commitgit
+    }
+    fun sub(){
+        //second commmitgit
+    }
 }
