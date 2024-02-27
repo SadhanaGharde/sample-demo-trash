@@ -45,4 +45,7 @@ class SecondFragment : Fragment() {
     fun add(){
         // first commitgit
     }
+    fun sub(){
+        //second commmitgit
+    }
 }
